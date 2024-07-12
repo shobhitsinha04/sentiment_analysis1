@@ -2,7 +2,7 @@
 
 
 
-This repository contains projects that perform sentiment analysis on different datasets, including Amazon reviews and tweets, using VADER (Valence Aware Dictionary and sEntiment Reasoner) and RoBERTa (Robustly optimized BERT approach). By leveraging both rule-based (VADER) and deep learning-based (RoBERTa) approaches, these projects aim to compare the performance of the models in accurately classifying sentiment and provide insights into their strengths and weaknesses.
+This repository contains projects that perform sentiment analysis on different datasets, including Amazon reviews and Tweets, using VADER (Valence Aware Dictionary and sEntiment Reasoner) and RoBERTa (Robustly optimized BERT approach). By leveraging both rule-based (VADER) and deep learning-based (RoBERTa) approaches, these projects aim to compare the performance of the models in accurately classifying sentiment and provide insights into their strengths and weaknesses.
 
 
 **Models Used**
