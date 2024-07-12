@@ -6,6 +6,8 @@ This repository contains projects that perform sentiment analysis on different d
 
 
 **Models Used**
+
+
 VADER (Valence Aware Dictionary and sEntiment Reasoner)
 VADER is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media.
 
